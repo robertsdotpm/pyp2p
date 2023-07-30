@@ -1,11 +1,7 @@
 **This library is depricated. See https://github.com/robertsdotpm/p2pd for the new version**
-################################################################################################
+#############################################################################################
 
-################
-Welcome to PyP2P
-################
-
-|BuildLink|_ |CoverageLink|_ |BuildLink2|_ |CoverageLink2|_ |LicenseLink|_
+Welcome to PyP2P |BuildLink|_ |CoverageLink|_ |BuildLink2|_ |CoverageLink2|_ |LicenseLink|_
 
 .. |BuildLink| image:: https://img.shields.io/travis/Storj/pyp2p/master.svg?label=Build-Master
 .. _BuildLink: https://travis-ci.org/Storj/pyp2p
