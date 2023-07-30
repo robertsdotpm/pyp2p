@@ -1,3 +1,6 @@
+**This library is depricated. See https://github.com/robertsdotpm/p2pd for the new version**
+################################################################################################
+
 ################
 Welcome to PyP2P
 ################
